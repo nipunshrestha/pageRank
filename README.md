@@ -1,4 +1,4 @@
-# pageRank
+# PageRank
 
 Applying the basic ideas behind PageRank to a graph, which is what it’s applied to in practice. 
 
